@@ -1,2 +1,2 @@
-npm install express && \
+npm i express && \
 npm start

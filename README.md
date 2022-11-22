@@ -1,6 +1,6 @@
 # Kasutamine
 
-`node install.sh`
+`./install.sh`
 
 ------------------
 
